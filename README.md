@@ -27,8 +27,9 @@ In this task, I created two EC2 instances and copied files from source server to
 
 ## TASK 4: Terraform
 Terraform is an Infrastructure as Code (IaC) tool.It creates and manages resources on cloud platforms and other services through APIs. It provides automation, consistency, version control, multi-cloud service, scalability.In this task, I built, change, and destroy EC2 using Terraform. 
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel3/refs/heads/main/terraform-3.png?token=GHSAT0AAAAAADJXOF3GIDUYZK7JNES2BGTW2FXCISQ)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel3/refs/heads/main/terraform-4.png?token=GHSAT0AAAAAADJXOF3GSPSKQDZIYM7RFQWS2FXCIWQ)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel3/refs/heads/main/terraform-5.png?token=GHSAT0AAAAAADJXOF3H6TL3ZC437IY46NHU2FXCI6A)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel3/refs/heads/main/terraform-6.png?token=GHSAT0AAAAAADJXOF3GN6VQBSBPHWVY5M2Y2FXCJDQ)
+![image](https://github.com/MonikaRGowda/clcylevel3/blob/main/terraform-3.png?raw=true)
+![image](https://github.com/MonikaRGowda/clcylevel3/blob/main/terraform-4.png?raw=true)
+![image](https://github.com/MonikaRGowda/clcylevel3/blob/main/terraform-5.png?raw=true)
+![image](https://github.com/MonikaRGowda/clcylevel3/blob/main/terraform-6.png?raw=true)
+
 
