@@ -4,7 +4,7 @@
 AWS Lambda is a serverless compute service that automatically runs code in response to events, without requiring you to manage the underlying infrastructure. It takes out the burden of provisioning, managing, and scaling servers, helping to focus on writing code. Through this task it was possible to understand how AWS lambda helps in making deploying and scaling of projects easier. I created three different lambda functions for connect,disconnect and message sending, API Gateway WebSocket for real time connection between clients and backend server and S3 buckets for static hosting.
 
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel3/refs/heads/main/aws_lambda-2.png?token=GHSAT0AAAAAADJXOF3HKXE4MNUWKEW7XLEK2FXCEKQ)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel3/refs/heads/main/aws_lambda-1.png?token=GHSAT0AAAAAADJXOF3GRMSQN6CIVRQGWADQ2FXCEHA)
+![image]([https://raw.githubusercontent.com/MonikaRGowda/clcylevel3/refs/heads/main/aws_lambda-1.png?token=GHSAT0AAAAAADJXOF3GRMSQN6CIVRQGWADQ2FXCEHA](https://github.com/MonikaRGowda/clcylevel3/blob/main/aws_lambda-1.png?raw=true))
 
 
 ## TASK 2: CI/CD (Continuous Integration & Continuous Delivery) - Intro to Jenkins
